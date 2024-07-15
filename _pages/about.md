@@ -6,7 +6,7 @@ subtitle: Research Officer (Remote), <a href='https://www.socsc.hku.hk/jcpanda/?
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: street_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
     <p>Eglinton,</p>
