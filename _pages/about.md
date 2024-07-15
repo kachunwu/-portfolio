@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Officer (Remote), <a href='https://www.socsc.hku.hk/jcpanda/?lang=en'>Jockey Club “Peace and Awareness” Mindfulness Culture in Schools Initiative</a>, University of Hong Kong
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Eglinton</p>
+    <p>Toronto, Ontario M4P 0B9</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have graduated from the Chinese University of Hong Kong with my MPhil degree for a few years now, and I am still passionated in neurosciences of human decision making. Since my day as an undergraduate, I have already developed a huge interest in the predisposition of people's choices and judgment. Despite the huge variety of information that could go into the equation, I believe there are parameters that were relatively constant and they represent what we called 'personality'. My research interest is to discover how these parameters are encoded in our nervous system.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+After I graduated from City University of Hong Kong in 2013, I have worked in different laboratories to gain experiences of practical research (mainly intervention study) and neuroimaging techniques (e.g. EEG, fMRI), and finished my MPhil degree at the Chinese University of Hong Kong in 2021. Since then, I worked as a member of the research team in a service-based project that promote mindfulness-based intervention (MBI).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am seeking an PhD opportunity in Canada, while remotely work as a part-time Research Officer for the mindfulness project. Although I worked in a food factory to support my living in the morning, I am still actively working on various reseasrch projects and manuscripts in my spare time (in fact, even more focus on research-related tasks than my full-time period). If you are in Toronto and want to make friend with me, feel free to contact me through my email or social media.
