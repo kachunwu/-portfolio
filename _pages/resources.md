@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 description: Some example codes and presentations of methodologies.
 nav: true
 nav_order: 6
