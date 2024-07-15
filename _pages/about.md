@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Officer (Remote), <a href='https://www.socsc.hku.hk/jcpanda/?lang=en'>Jockey Club “Peace and Awareness” Mindfulness Culture in Schools Initiative</a>, University of Hong Kong
 
@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Eglinton</p>
-    <p>Toronto, Ontario M4P 0B9</p>
+  more_info: 
+    <p>Eglinton,</p>
+    <p>Toronto, Ontario</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

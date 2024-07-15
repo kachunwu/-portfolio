@@ -70,17 +70,30 @@
       "url": "https://www.psy.cuhk.edu.hk/index.php/?option=com_sppagebuilder&view=page&id=128",
       "startDate": "2017-08-01",
       "endDate": "2019-06-31",
-      "summary": "I joined the laboratory to assist the execution of a longitudinal intervention study for dyslexia. During this time, I received extensive training of EEG technique.",
+      "summary": "I joined the Prof. Urs Maurer's laboratory to assist the execution of a longitudinal intervention study for dyslexia. During this time, I received extensive training of EEG technique.",
       "highlights": ["Prepared stimuli and create experiment program with E-Prime for EEG study",
                     "Administrated over 100 EEG sessions and standardized behavioral tests on children with dyslexia",
                     "Scheduled assessment and intervention sessions for children with dyslexia",
                     "Publicity for recruitment (design advertisement, conduct briefing sessions, meetings with stakeholders, and handle enquiry)",
                     "Daily operation of laboratory (maintenance of EEG equipment, supply of consumables)"]
+    },
+    {
+      "name": "Han Andersen Club (Non-profit Organization) in collaboration with Department of Applied Social Science, City University of Hong Kong",
+      "position": "Research Assistant",
+      "url": "https://www.psy.cuhk.edu.hk/index.php/?option=com_sppagebuilder&view=page&id=128",
+      "startDate": "2015-08-01",
+      "endDate": "2017-06-31",
+      "summary": "I worked for Prof. Annis Fung on multiple projects related to children's aggressive behavior. The main focus was in a cross-cultural RCT study investigating the effect of Omega-3 supplement. Other projects included the evaluation of a storytelling intervention and a Chinese martial art training.",
+      "highlights": ["Conduct computerized neuropsychological assessment and EEG experiment",
+                    "Collaborate with teachers and social workers to arrange data collection",
+                    "Literature review, quantitative data analyses and results writing",
+                    "Prepare manuscript for journal submission",
+                    "Prepare proposals and progress reports for funding body and collaborating schools"]
     }
   ],
   "education": [
     {
-      "institution": "The Chinese University of Hong Kong, Hong Kong",
+      "institution": "The Chinese University of Hong Kong",
       "location": "Hong Kong",
       "url": "https://www.cuhk.edu.hk/",
       "area": "Education (Educational Psychology)",
@@ -89,7 +102,7 @@
       "endDate": "2021-07-31"
     },
     {
-      "institution": "City University of Hong Kong, Hong Kong",
+      "institution": "City University of Hong Kong",
       "location": "Hong Kong",
       "url": "https://www.cityu.edu.hk/",
       "area": "Psychology",
@@ -98,34 +111,11 @@
       "endDate": "2015-07-31"
     }
   ],
-  "publications": [
-    {
-      "name": "Behavioral and neurophysiological aspects of working memory impairment in children with dyslexia",
-      "publisher": "Scientific Reports",
-      "releaseDate": "2022-07-22",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "As the co-author of the manuscript, I was responsible for the delivery of the training and experiment, preprocessing of the EEG data, and the preliminary analyses"
-    },
-    {
-      "name": "Children With Chinese Dyslexia Acquiring English Literacy: Interaction Between Cognitive Subtypes of Dyslexia and Orthographies",
-      "publisher": "Journal of Learning Disabilities",
-      "releaseDate": "2021-06-09",
-      "url": "https://journals.sagepub.com/doi/10.1177/00222194211017819",
-      "summary": "As the co-first author of the manuscript, I was responsible for the execution of data collection, data analyses and results reporting."
-    },
-    {
-      "name": "Remediation of a phonological representation deficit in Chinese children with dyslexia: A comparison between metalinguistic training and working memory training",
-      "publisher": "Developmental Science",
-      "releaseDate": "2020-11-20",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.13065",
-      "summary": "As the co-author of the manuscript, I was responsible for the delivery of the training, data collection, and preprocessing of the data."
-    }
-  ],
   "skills": [
     {
       "name": "Neuroimaging",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-brain",
       "keywords": [
         "EEG experiment",
         "EEG preprocessing",
@@ -137,7 +127,7 @@
     {
       "name": "Statistics",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
         "Structural Equation Modeling (SEM)",
         "Linear Mixed Model (LMM)",
@@ -147,7 +137,7 @@
     {
       "name": "Software and Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": [
         "R",
         "Python",
@@ -159,7 +149,7 @@
     {
       "name": "Online Survey and Experiment Platform",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-square-poll-vertical",
       "keywords": [
         "Qualtrics® XM",
         "Pavlovia"
@@ -186,7 +176,7 @@
   "interests": [
     {
       "name": "Psychology",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-masks-theater",
       "keywords": [
         "Decision making",
         "Moral judgment",
@@ -197,7 +187,7 @@
     },
     {
       "name": "Neurosciences",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-brain",
       "keywords": [
         "Neuroimaging",
         "Computation models of decision making",
@@ -206,7 +196,7 @@
     },
     {
       "name": "Data Sciences",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-database",
       "keywords": [
         "Neural network",
         "Reinforcement learning",
@@ -220,18 +210,18 @@
       "date": "2023-05-30",
       "issuer": "Coursea",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/UDWBYHNSLCVS",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "references": [
     {
       "name": "Professor Savio Wong",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-school",
       "reference": "MPhil supervisor."
     },
     {
       "name": "Professor Shui-fong Lam",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-user-tie",
       "reference": "Director of the JC PandA project. "
     }
   ]
