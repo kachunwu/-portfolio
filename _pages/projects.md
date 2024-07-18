@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Years of works during my study and career
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Cognitive-Neuroscience, Mindfulness, Fun]
 horizontal: false
 ---
 
