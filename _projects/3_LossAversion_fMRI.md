@@ -5,6 +5,7 @@ description: A fMRI study trying to capture the neural correlate of loss aversio
 img: assets/project/3_LossAversion/project3_preview.jpg
 importance: 3
 category: Cognitive-Neuroscience
+related_publications: true
 ---
 During my MPhil study, I used the fMRI data of our lab to practice the analyses of fMRI data. Eventually I did a online poster presentation at CNS*2020 (Since that was during COVID-19), titled "<i>Loss aversion and outcome-value encoding: a negative association between posterior insula activity and loss aversion coefficient</i>". If you want to see my poster, you can find it in my [Publications](/publications) page.
 
@@ -96,9 +97,13 @@ We also inputted lambda to the GLM as second-level covariate and found it negati
     </div>
 </div>  
 
-It appeared gambling loss elicit stronger left posterior insula response relative to guaranteed outcome in participants with lower lambda. That means the inhibited left posterior insula activity either (1) increased the sensitivity of the anticipated loss, or (2) reduced the sensitivity to the gamble loss, which created the strong loss aversion. 
+It appeared participants who had a strong loss aversion also had reduced left posterior insular activity when they receive feedback from their decision. 
 
-Both interpretation leads to the conclusion that people with high lambda (i.e. stronger loss aversion) may tend to take risk in a long run, as they experience weaker emotional impact when receiving a negative outcome after taking risk relative to the safe option.
+Our results indicated:
+1. The left posterior insular had reduced activity when receiving feedback, especially when the person lose the bet.
+2. The reduction in left posterior insular activity was even bigger for those who had a strong loss aversion. 
+
+Some researcher proposed insular activity could represent the "interoceptive tuning mechanism" of outcome value that helps to optimize people's decision making in the future, and studies reported reduced insular cortex activity for addicts in stimuli evaluation tasks (see [this paper](https://doi.org/10.1016/j.tics.2015.05.005) for details). Although the relationship between loss aversion and addiction is still inconclusive, our results indicates the two may shared some underlying neural processes.
 
 > The biggest risk is not taking any risk... In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.
 > — Mark Zuckerberg
